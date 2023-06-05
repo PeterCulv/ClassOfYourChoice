@@ -30,7 +30,7 @@ namespace DrFrahkensteen
         public int Dexterity { get; set; }
         public int Stamina { get; set; }
         public int Health { get; set; }
-        public int Intelligence { get; set;}
+        public int Intelligence { get; set; }
 
         //constructor
 
